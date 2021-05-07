@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\vs\c&c++learn\CompileDesign\CompileDesign\scanner.h(254,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\c&c++learn\CompileDesign\CompileDesign\recursive_descent.h(11,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(1,9): warning C4068: 未知的杂注“onceunultiSym”
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(14,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(52,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(82,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(121,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(196,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(203,108): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(218,108): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(157,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(193,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(201,21): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\c&c++learn\CompileDesign\CompileDesign\LL1.h(216,21): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs\c&c++learn\CompileDesign\CompileDesign\scanner.h(74): warning C4715: “getLexString”: 不是所有的控件路径都返回值
+  CompileDesign.vcxproj -> D:\vs\c&c++learn\CompileDesign\x64\Debug\CompileDesign.exe
